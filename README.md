@@ -1,1 +1,2 @@
 # proyecto-modulo-2-george-abou-chanab
+mediante el uso de condiconales , de implementacion de listas y uso de las logicas, pude realizar estos programsa el cual uno te indica el tamaño de la frase que debe tener entre 4 y 8 letras para ser correctas y por el otro lado el uso de listas para organizar los datos de los ejes y poder ordenarlos  e indicar en que cuadrante estan y su eje de coordenadas, espero seguir avanzando para seguir aprendiendo , saluos.
